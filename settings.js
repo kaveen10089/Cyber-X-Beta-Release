@@ -43,14 +43,14 @@ global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.owner = ['94761544363']
+global.ownertag = '94761544363' //ur tag number
+global.botnumber = '94761544363' //Add your Bot Number For Log
+global.botname = 'KAVEEN-X BETA EDITION' //ur bot name
+global.ig = "https://www.youtube.com/channel/UCU88G-7LfQ3nJjSa9gLPL_w" //your theme url which will be displayed on whatsapp
+global.myweb = "https://www.youtube.com/channel/UCU88G-7LfQ3nJjSa9gLPL_w" //ur website to be displayed
+global.sc = 'https://github.com/kaveen10089' //script link
+global.linkz = 'https://www.youtube.com/channel/UCU88G-7LfQ3nJjSa9gLPL_w'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94761544363'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
